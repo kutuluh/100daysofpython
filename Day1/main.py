@@ -22,7 +22,7 @@
 #print(len(getlen))
 
 
-#4
+#4 option A
 
 
 ## 🚨 Don't change the code below 👇
@@ -54,3 +54,30 @@
 ## 🚨 Don't change the code below 👇
 #print("a: " + a)
 #print("b: " + b)
+
+
+## 🚨 Don't change the code below 👇
+#a = input("a: ")
+#b = input("b: ")
+## 🚨 Don't change the code above 👆
+
+#####################################
+##Write your code below this line 👇
+#
+#c = a
+#a = b
+#b = c
+#
+##Write your code above this line 👆
+#####################################
+#
+## 🚨 Don't change the code below 👇
+#print("a: " + a)
+#print("b: " + b)
+
+
+
+print("welcome to the Band Name Generator.")
+city = input("What's the name of the city you gre up in? \n")
+pet = input("wha's the name of your favourite pet? \n")
+print("your band name is!...  " + city + pet)
